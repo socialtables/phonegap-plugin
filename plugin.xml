@@ -41,7 +41,6 @@
             </receiver>
         </config-file>
 
-        <source-file src="src/android/lib/MobileAppTracker-3.3.3.jar" target-dir="libs/" />
         <source-file src="src/android/com/mobileapptracking/MATPlugin.java"
                      target-dir="src/com/mobileapptracking" />
     </platform>
